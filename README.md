@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header" alt="animated-header">
 </p>
 
-<h1 align="center">I'm Muhammad Hamza</h1>
+<h1 align="center">I'm Muhammad Hamza Yousaf</h1>
 <h3 align="center">I am a Web Developer specializing in HTML, CSS, JavaScript, WordPress, and more, with over 3 years of experience in creating sleek, responsive websites. My passion lies in crafting visually appealing, high-performing websites that drive business growth.</h3>
 
 <p align="center">
@@ -24,12 +24,7 @@
 
 <!-- Section for "I’m currently learning" -->
 <p align="left">
-  <strong>🌱 I’m currently learning:</strong>
-  <a href="https://reactjs.org/" target="_blank">
-    <button style="background-color:#1f8acb;color:white;padding:8px 12px;border:none;border-radius:5px;cursor:pointer;">
-      Explore React Learn PHP
-    </button>
-  </a>
+  <strong>🌱 I’m currently learning:</strong> React.js, Advanced JS, PHP
 </p>
 
 <!-- Section for "All of my projects are available at" -->
@@ -100,7 +95,7 @@
     <img src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000" alt="WordPress" width="40" height="40"/> 
   </a>
   <a href="https://img.icons8.com/?size=100&id=cQfKnWABsKk9&format=png&color=000000" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/?size=100&id=cQfKnWABsKk9&format=png&color=000000" alt="Wix" width="40" height="40"/> 
+    <img src="https://static.wixstatic.com/media/9ab0d1_f0cf9c61c6bb47e4bfc7be98b9509ee4~mv2.jpg/v1/fill/w_320,h_146,al_c,lg_1,q_80,enc_auto/Wix%20logo%20black%20BG.jpg" alt="Wix" width="60" height="40"/> 
   </a>
   <a href="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=6kZdxe7t8OL1&format=png&color=000000" alt="Microsoft 365" width="40" height="40"/> 
@@ -114,10 +109,11 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithhamza1&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark" alt="Top Languages" height="180px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithhamza1&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="180px"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithhamza1&theme=dark" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithhamza1&show_icons=true&locale=en&layout=compact&langs_count=6&theme=dark&bg_color=282c34&border_color=9b59b6" alt="Top Languages" height="180px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithhamza1&show_icons=true&locale=en&theme=dark&bg_color=282c34&border_color=9b59b6" alt="GitHub Stats" height="180px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithhamza1&theme=dark&background=282c34&border_radius=5&ring=9b59b6&fire=8e44ad&currStreakLabel=9b59b6&sideLabels=9b59b6&stroke=9b59b6" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
