@@ -26,7 +26,7 @@
 
 <!-- Section for "I’m currently learning" -->
 <p align="left">
-  <strong>🌱 I’m currently learning:</strong> React.js, Advanced JS, PHP
+  <strong>🌱 I’m currently learning:</strong> Python ML
 </p>
 
 <!-- Section for "All of my projects are available at" -->
