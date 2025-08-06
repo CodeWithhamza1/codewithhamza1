@@ -62,7 +62,7 @@
   <a href="https://facebook.com/mahar.hamza.140193" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/maharhamza301" target="_blank">
+  <a href="https://www.instagram.com/mahar_hamzaa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/@webscribezofficial" target="_blank">
