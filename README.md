@@ -4,7 +4,9 @@
 </p>
 
 <h1 align="center">I'm Muhammad Hamza Yousaf</h1>
-<h3 align="center">I am a Web Developer specializing in HTML, CSS, JavaScript, WordPress, and more, with over 3 years of experience in creating sleek, responsive websites. My passion lies in crafting visually appealing, high-performing websites that drive business growth.</h3>
+<h3 align="center">
+  I am a Web Developer specializing in HTML, CSS, JavaScript, Laravel, WordPress, and more, with over 3 years of experience in creating sleek, responsive websites. My passion lies in crafting visually appealing, high-performing websites that drive business growth.
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithhamza1&label=Profile%20views&color=0e75b6&style=flat" alt="codewithhamza1" />
@@ -46,7 +48,6 @@
     </button>
   </a>
 </p>
-
 
 ---
 
@@ -91,6 +92,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  </a>
   <a href="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=aMLZmDlq6SvC&format=png&color=000000" alt="WordPress" width="40" height="40"/> 
   </a>
@@ -113,7 +117,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithhamza1&show_icons=true&locale=en&theme=dark&bg_color=282c34&border_color=9b59b6" alt="GitHub Stats" height="180px"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithhamza1&theme=dark&background=282c34&border_radius=5&ring=9b59b6&fire=8e44ad&currStreakLabel=9b59b6&sideLabels=9b59b6&stroke=9b59b6" alt="GitHub Streak"/>
 </p>
-
 
 ---
 
